@@ -33,9 +33,12 @@
 
 }
 .circle{
+  display: flex;
+  justify-content: center;
+  align-items: center;
     width: 31px;
     height: 31px;
-    background-color:aqua;
+    background-color:rgba(0, 0, 0, 0.315);
     border-radius: 50%;
 }
 .phone{
